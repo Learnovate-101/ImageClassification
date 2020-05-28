@@ -1,4 +1,8 @@
 # ImageClassification
+
+Written in Python3 
+
+
 CIFAR-10 Dataset Image classification using Convolutional Neural Networks with Keras.
 
 Clone or Download the repo and run it in Jupyter.
